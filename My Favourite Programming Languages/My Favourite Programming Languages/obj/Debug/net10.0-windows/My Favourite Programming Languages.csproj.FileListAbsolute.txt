@@ -1,0 +1,16 @@
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\bin\Debug\net10.0-windows\My Favourite Programming Languages.exe
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\bin\Debug\net10.0-windows\My Favourite Programming Languages.deps.json
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\bin\Debug\net10.0-windows\My Favourite Programming Languages.runtimeconfig.json
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\bin\Debug\net10.0-windows\My Favourite Programming Languages.dll
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\bin\Debug\net10.0-windows\My Favourite Programming Languages.pdb
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\obj\Debug\net10.0-windows\My_Favourite_Programming_Languages.Form1.resources
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\obj\Debug\net10.0-windows\My Favourite Programming Languages.csproj.GenerateResource.cache
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\obj\Debug\net10.0-windows\My Favourite Programming Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\obj\Debug\net10.0-windows\My Favourite Programming Languages.AssemblyInfoInputs.cache
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\obj\Debug\net10.0-windows\My Favourite Programming Languages.AssemblyInfo.cs
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\obj\Debug\net10.0-windows\My Favourite Programming Languages.csproj.CoreCompileInputs.cache
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\obj\Debug\net10.0-windows\My Favourite Programming Languages.dll
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\obj\Debug\net10.0-windows\refint\My Favourite Programming Languages.dll
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\obj\Debug\net10.0-windows\My Favourite Programming Languages.pdb
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\obj\Debug\net10.0-windows\My Favourite Programming Languages.genruntimeconfig.cache
+C:\Users\cash\source\repos\My Favourite Programming Languages\My Favourite Programming Languages\obj\Debug\net10.0-windows\ref\My Favourite Programming Languages.dll
