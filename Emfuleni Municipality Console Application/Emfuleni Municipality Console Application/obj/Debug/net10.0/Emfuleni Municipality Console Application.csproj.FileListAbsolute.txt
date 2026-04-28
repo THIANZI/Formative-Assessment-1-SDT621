@@ -1,0 +1,14 @@
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\bin\Debug\net10.0\Emfuleni Municipality Console Application.exe
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\bin\Debug\net10.0\Emfuleni Municipality Console Application.deps.json
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\bin\Debug\net10.0\Emfuleni Municipality Console Application.runtimeconfig.json
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\bin\Debug\net10.0\Emfuleni Municipality Console Application.dll
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\bin\Debug\net10.0\Emfuleni Municipality Console Application.pdb
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\obj\Debug\net10.0\Emfuleni Municipality Console Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\obj\Debug\net10.0\Emfuleni Municipality Console Application.AssemblyInfoInputs.cache
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\obj\Debug\net10.0\Emfuleni Municipality Console Application.AssemblyInfo.cs
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\obj\Debug\net10.0\Emfuleni Municipality Console Application.csproj.CoreCompileInputs.cache
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\obj\Debug\net10.0\Emfuleni Municipality Console Application.dll
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\obj\Debug\net10.0\refint\Emfuleni Municipality Console Application.dll
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\obj\Debug\net10.0\Emfuleni Municipality Console Application.pdb
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\obj\Debug\net10.0\Emfuleni Municipality Console Application.genruntimeconfig.cache
+C:\Users\cash\source\repos\Emfuleni Municipality Console Application\Emfuleni Municipality Console Application\obj\Debug\net10.0\ref\Emfuleni Municipality Console Application.dll
